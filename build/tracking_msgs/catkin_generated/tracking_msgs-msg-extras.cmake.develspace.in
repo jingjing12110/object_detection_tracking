@@ -1,0 +1,2 @@
+set(tracking_msgs_MESSAGE_FILES "/home/jing/combine_ws/src/tracking_msgs/msg/DetectedObject.msg;/home/jing/combine_ws/src/tracking_msgs/msg/DetectedObjectArray.msg;/home/jing/combine_ws/src/tracking_msgs/msg/LaneArray.msg;/home/jing/combine_ws/src/tracking_msgs/msg/Lane.msg;/home/jing/combine_ws/src/tracking_msgs/msg/Waypoint.msg;/home/jing/combine_ws/src/tracking_msgs/msg/WaypointState.msg")
+set(tracking_msgs_SERVICE_FILES "")

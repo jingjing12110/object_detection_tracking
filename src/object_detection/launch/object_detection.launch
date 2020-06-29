@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="object_detection" type="obstacle" name="detection" output="screen"/>
+    <!-- <node pkg="rosbag" type="play" name="rosbag" args="-d 2 $(find image_view)/test.bag"/> -->
+    <node pkg="rosbag" type="play" name="player" output="screen" args="--clock /media/jing/RECODE/lidar_data_2019_08_27/2019-08-27-22-13-41-sida.bag"/> 
+</launch>

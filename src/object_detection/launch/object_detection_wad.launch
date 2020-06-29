@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<launch>
+    <!-- <arg name="scene" default="0"/>
+    <node pkg="wad_reader" type="lidar_full.py" name="lidar">
+      <param name="~scene_num" value="$(arg scene)" />
+    </node> -->
+    <node pkg="wad_reader" type="lidar.py" name="lidar" output="screen"/>
+    <!-- <node pkg="object_detection" type="lidar_to_json.py" name="lidar_to_json" output="screen"/> -->
+    <node pkg="object_detection" type="obstacle" name="detection" output="screen"/>
+</launch>

@@ -1,0 +1,2 @@
+lidar_msgs:object_detection:tracking_msgs
+-DCATKIN_DEVEL_PREFIX=/home/jing/combine_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jing/combine_ws/install -G Unix Makefiles

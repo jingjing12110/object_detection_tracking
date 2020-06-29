@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/3DmFV-Net" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PointCNN.Pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pointnet.pytorch" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/pseudo_lidar" vcs="Git" />
+  </component>
+</project>

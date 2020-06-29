@@ -1,0 +1,20 @@
+{
+  // See https://go.microsoft.com/fwlink/?LinkId=733558
+  // for the documentation about the tasks.json format
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "catkin_make", //代表提示的描述性信息
+      "type": "shell",
+      "command": "catkin_make", //这个是我们需要运行的命令
+      "args": [], //如果需要在命令后面加一些后缀，可以写在这里，比如-DCATKIN_WHITELIST_PACKAGES=“pac1;pac2”
+      "group": {"kind":"build","isDefault":true},
+      "presentation": {
+        // Reveal the output only if unrecognized errors occur.
+        "reveal": "always"
+      },
+      // Use the standard MS compiler pattern to detect errors, warnings and infos
+      "problemMatcher": "$msCompile"
+    }
+  ]
+}
