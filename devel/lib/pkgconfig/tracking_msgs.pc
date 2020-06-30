@@ -1,8 +1,0 @@
-prefix=/home/jing/combine_ws/devel
-
-Name: tracking_msgs
-Description: Description of tracking_msgs
-Version: 1.11.0
-Cflags: -I/home/jing/combine_ws/devel/include
-Libs: -L/home/jing/combine_ws/devel/lib 
-Requires: message_runtime std_msgs geometry_msgs sensor_msgs

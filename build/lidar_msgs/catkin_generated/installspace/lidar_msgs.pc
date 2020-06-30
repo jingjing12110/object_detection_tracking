@@ -1,8 +1,0 @@
-prefix=/home/jing/combine_ws/install
-
-Name: lidar_msgs
-Description: Description of lidar_msgs
-Version: 0.0.0
-Cflags: -I/home/jing/combine_ws/install/include
-Libs: -L/home/jing/combine_ws/install/lib 
-Requires: message_runtime std_msgs

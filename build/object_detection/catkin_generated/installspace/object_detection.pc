@@ -1,8 +1,0 @@
-prefix=/home/jing/combine_ws/install
-
-Name: object_detection
-Description: Description of object_detection
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/jing/combine_ws/install/lib 
-Requires: std_msgs sensor_msgs message_runtime
