@@ -2,7 +2,7 @@
 
 ## Overview
 
-![object detection and tracking](./overview/DT-2020-06-29_22.31.03.gif)
+<!-- ![object detection and tracking](./overview/DT-2020-06-29_22.31.03.gif) -->
 
 ## Run
 
@@ -15,9 +15,8 @@ rosrun object_detection velo32_perception
 $4: rosbag play data.bag
 ```
 
-## Data
-
-rosbag data: [baidu netdisk](https://pan.baidu.com/s/1mE3lrXIhxCJZ3qfk0VCqAA) (提取码: suwb )
+<!-- ## Data
+rosbag data: [baidu netdisk](https://pan.baidu.com/s/1mE3lrXIhxCJZ3qfk0VCqAA) (提取码: suwb )-->
 
 ## Reference
 
