@@ -2,7 +2,7 @@
 
 ## Overview
 
-<!-- ![object detection and tracking](./overview/DT-2020-06-29_22.31.03.gif) -->
+![object detection and tracking](./overview/DT-2020-06-29_22.31.03.gif)
 
 ## Run
 
